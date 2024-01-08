@@ -20,8 +20,6 @@ HTML TriScope is a Proof of Concept (POC) project that leverages the power of La
 ## Contributing 🤝
 Interested in contributing to HTML TriScope? Awesome! We welcome contributions of all kinds. Please read our [Contribution Guidelines](CONTRIBUTING.md) for more information.
 
-## License ⚖️
-HTML TriScope is released under [SPECIFY LICENSE], see [LICENSE](LICENSE) for details.
 
 ---
 
