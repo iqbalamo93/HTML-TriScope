@@ -1,3 +1,5 @@
 .env
 sandpit.ipynb
 vector_index/
+Pipfile
+Pipfile.lock
