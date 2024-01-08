@@ -948,11 +948,11 @@
         },
         "langsmith": {
             "hashes": [
-                "sha256:750c0aa9177240c64e131d831e009ed08dd59038f7cabbd0bbcf62ccb7c8dcac",
-                "sha256:c4c8d3a96ad8671a41064f3ccc673e2e22a4153e823b19f915c9c9b8a4f33a2c"
+                "sha256:a7d7f1639072aeb12115a931eb6d4c53810a480a1fec90bc8744f232765f3c81",
+                "sha256:d7c8300700dde0cea87388177c2552187e87fb4ae789510712e7654db72b5c04"
             ],
             "markers": "python_version < '4.0' and python_full_version >= '3.8.1'",
-            "version": "==0.0.77"
+            "version": "==0.0.78"
         },
         "libmagic": {
             "hashes": [
