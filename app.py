@@ -50,7 +50,7 @@ vector_index_path = 'vector_index'
 st.header('HTML TriScope: Rapid Answers from Triple Web Sources')
 main_placeholder = st.empty()
 # Input for OpenAI key
-openai_key = st.text_input("Enter your OpenAI API Key and them goto sidebar", type="password")
+openai_key = st.text_input("Enter your OpenAI API Key and then goto sidebar", type="password")
 
 
 if openai_key:
